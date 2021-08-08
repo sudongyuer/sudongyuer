@@ -1,4 +1,4 @@
-### Hi there 👋
+### 你好，世界 👋
 
 <!--
 **sudongyuer/sudongyuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web development
 - 🌱 I’m currently learning and sharing on my [sudongyuer-blog](https://sudongyuer.github.io/),welcome~ 
-- 💬 微信：sudongyuer
+- 💬 微信 : sudongyuer
+- 🐧 QQ : 976499226
+- 📧 Email : 976499226@qq.com
 
 
 ## 今年汇总 ✨
