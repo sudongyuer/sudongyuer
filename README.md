@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 我是速冻鱼 🐟🐟🐟
 
 - 🔭 I’m currently working on Web development
-- 🌱 I’m currently learning and sharing on my [sudongyuer-blog](https://sudongyuer.github.io/),welcome~ 
+- 🌱 I’m currently learning and sharing on my [sudongyuer-blog](https://sudongyuer.github.io/) welcome~ 
 - 💬 微信 : sudongyuer
 - 🐧 QQ : 976499226
 - 📧 Email : 976499226@qq.com
