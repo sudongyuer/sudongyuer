@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 💬 微信 : sudongyuer
 - 🐧 QQ : 976499226
 - 📧 Email : 976499226@qq.com
+- 📁 掘金社区 : [速冻鱼](https://juejin.cn/user/2867982785579102)
 
 
 ## 今年汇总 ✨
