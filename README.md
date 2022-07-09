@@ -128,7 +128,7 @@
       <th>🎸 spotify音乐播放器(next.js、nextauth 、recoil、ts、tailwind、spotify api、middleware、pnpm)</th>
       <th>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
-        <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&amp;logo=nestjs&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&amp;logo=next.js&amp;logoColor=white" alt="badge">
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&amp;logo=tailwind-css&amp;logoColor=white" alt="badge">
       </th>
       <th>
@@ -143,7 +143,7 @@
       <th>
         <a href="https://github.com/sudongyuer/toy-browser" target="_blank">Github</a>
       </th>
-      <th>🌍 一个玩具浏览器关模拟浏览器渲染^_^</th>
+      <th>🌍 一个玩具浏览器模拟浏览器渲染^_^</th>
       <th>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="badge">
