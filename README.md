@@ -1,16 +1,7 @@
-  <h2>☀️ 你好 世界</h2>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sudongyuer.sudongyuer" alt="visitor badge" />
-  <p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是速冻鱼🐟，坐标成都。</p>
-  <p>我热爱开源，仍然在学习中～</p>
-  一些我参与贡献的项目:<ul>
-  <li>naive-ui</li>
-  <li>vue-next</li>
-  <li>vite</li>
-  <li>vitest</li>
-  <li>unplugin-vue-components</li>
-  <li>rsocket-js</li>
-  <li>vuejs-translations</li>
-</ul>
+<h2>☀️ 你好 世界</h2>
+<img src="https://visitor-badge.glitch.me/badge?page_id=sudongyuer.sudongyuer" alt="visitor badge" />
+<p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是速冻鱼🐟，坐标成都。</p>
+<p>我热爱开源，仍然在学习中～</p>
 <h2>🙌 文章</h2>
 <table>
   <tr>
@@ -336,3 +327,13 @@
     </tr>
   </tbody>
 </table>
+<p>一些我参与贡献的项目:</p>
+<ul>
+  <li>naive-ui</li>
+  <li>vue-next</li>
+  <li>vite</li>
+  <li>vitest</li>
+  <li>unplugin-vue-components</li>
+  <li>rsocket-js</li>
+  <li>vuejs-translations</li>
+</ul>
