@@ -1,7 +1,7 @@
   <h2>☀️ 你好 世界</h2>
   <img src="https://visitor-badge.glitch.me/badge?page_id=sudongyuer.sudongyuer" alt="visitor badge" />
   <p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是速冻鱼🐟，坐标成都。</p>
-  <p>我热爱开源，仍然在学习中～，希望成为mini-antfu</p>
+  <p>我热爱开源，仍然在学习中～</p>
   一些我参与贡献的项目:<ul>
   <li>naive-ui</li>
   <li>vue-next</li>
@@ -16,7 +16,7 @@
   <tr>
     <td>
       <a href="https://juejin.cn/user/2867982785579102" target="_blank">
-        <img src="./src/images/icons/juejin.png" alt="掘金">
+        <img width="150" src="./src/images/icons/juejin.png" alt="掘金">
       </a>
     </td>
   </tr>
