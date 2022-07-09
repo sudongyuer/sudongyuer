@@ -1,0 +1,98 @@
+<h2>☀️ 你好 世界</h2>
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=sudongyuer.sudongyuer" alt="visitor badge"/>
+
+<p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是速冻鱼🐟，坐标成都。</p>
+
+<p>我热爱开源，仍然在学习中～，希望成为mini-antfu</p>
+
+一些我参与贡献的项目:
+<ul>
+    <li>naive-ui</li>
+    <li>vue-next</li>
+    <li>vite</li>
+    <li>vitest</li>
+    <li>unplugin-vue-components</li>
+    <li>rsocket-js</li>
+    <li>vuejs-translations</li>
+
+</ul>
+
+<h2>🙌 文章</h2>
+
+<table>
+    <tr>
+      <td>
+        <a href="https://juejin.cn/user/2867982785579102" target="_blank">
+          <img src="./src/images/icons/juejin.png" alt="掘金">
+        </a>
+      </td>
+    </tr>
+  </table>
+
+<h2>📚 小册子</h2>
+
+<p>每当学习到一些有用的知识，我就会将它系统的整理为小册，方便自己，也分享他人，还有一些散文在我的掘金，如果需要转载，请注明 --转载自速冻鱼（链接🔗）</p>
+
+<table>
+    <tbody align="left">
+        <% books.forEach(function(book){ %>
+        <tr>
+            <th align="center">
+                <img width="80" src="<%= book.cover %>" alt="<%= book.name %>">
+            </th>
+            <th>
+                <a href="<%= book.url %>" target="_blank"><%= book.name %></a>
+            </th>
+            <th><%= book.desc %></th>
+            <th>
+                <% book.badges.forEach(function(badge){ %>
+                    <img src="<%= badge %>" alt="badge">
+                <% }); %>
+            </th>
+        </tr>
+        <% }); %>
+    </tbody>
+</table>
+
+<h2>💼 repo</h2>
+
+<p>下面是我在学前端的路上写的一些个人项目，还有在公司写的一些开源项目，有的比较认真 🧐，有的只是为了好玩 🎮，有的比较沙雕 🤪。</p>
+
+<table>
+    <thead align="center">
+    <tr>
+        <th>项目</th>
+        <th>Github</th>
+        <th>简述</th>
+        <th>技术</th>
+        <th>成就</th>
+    </tr>
+    </thead>
+
+    <tbody align="left">
+    <% projects.forEach(function(project){ %>
+        <tr>
+            <th>
+                <a href="<%= project.preview || project.github %>" target="_blank">
+                    <%= project.repo %>
+                </a>
+            </th>
+            <th>
+                <a href="<%= project.github %>" target="_blank">Github</a>
+            </th>
+            <th><%= project.logo %> <%= project.desc %></th>
+            <th>
+                <% project.techList.forEach(function(tech){ %>
+                    <img src="<%= tech %>" alt="badge">
+                <% }); %>
+            </th>
+            <th>
+                <% project.badges.forEach(function(badge){ %>
+                    <img src="<%= badge %>" alt="badge">
+                <% }); %>
+            </th>
+        </tr>
+    <% }); %>
+    </tbody>
+</table>
