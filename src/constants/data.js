@@ -72,7 +72,7 @@ const data = {
       desc: 'spotify音乐播放器(next.js、nextauth 、recoil、ts、tailwind、spotify api、middleware、pnpm)',
       github: 'https://github.com/sudongyuer/mini-spotify',
       preview: 'https://mini-spotify-rose.vercel.app/',
-      techList: [badges.TypeScript, badges.NestJS,badges.TailWindCss],
+      techList: [badges.TypeScript, badges.NextJs,badges.TailWindCss],
       badges: [
         'https://img.shields.io/github/stars/sudongyuer/mini-spotify?style=flat-square',
       ],
@@ -80,7 +80,7 @@ const data = {
     {
       logo: '🌍',
       repo: 'toy-browser',
-      desc: '一个玩具浏览器关模拟浏览器渲染^_^',
+      desc: '一个玩具浏览器模拟浏览器渲染^_^',
       github: 'https://github.com/sudongyuer/toy-browser',
       preview: 'https://github.com/sudongyuer/toy-browser',
       techList: [badges.JavaScript, badges.NodeJS],
