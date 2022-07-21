@@ -82,6 +82,57 @@
   <tbody align="left">
     <tr>
       <th>
+        <a href="https://github.com/sudongyuer/vite-plugin-hot-export" target="_blank">
+        vite-plugin-hot-export</a>
+      </th>
+      <th>
+        <a href="https://github.com/sudongyuer/vite-plugin-hot-export" target="_blank">Github</a>
+      </th>
+      <th>🐝 可自动导出文件并且支持热更新</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/sudongyuer/vite-plugin-hot-export?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        <a href="https://github.com/sudongyuer/auto-export" target="_blank">
+        auto-export</a>
+      </th>
+      <th>
+        <a href="https://github.com/sudongyuer/auto-export" target="_blank">Github</a>
+      </th>
+      <th>✨ 一个cli可以自动导出同类型的文件</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/sudongyuer/auto-export?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        <a href="https://github.com/sudongyuer/unxlsx" target="_blank">
+        unxlsx</a>
+      </th>
+      <th>
+        <a href="https://github.com/sudongyuer/unxlsx" target="_blank">Github</a>
+      </th>
+      <th>🌸 可以自动从多个 Excel 文件自动生成导出文件的CLI</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/sudongyuer/unxlsx?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
         <a href="https://mini-slack.vercel.app/" target="_blank">
         mini-slack</a>
       </th>

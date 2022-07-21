@@ -44,6 +44,39 @@ const data = {
   ],
   projects: [
     {
+      logo: '🐝',
+      repo: 'vite-plugin-hot-export',
+      desc: '可自动导出文件并且支持热更新',
+      github: 'https://github.com/sudongyuer/vite-plugin-hot-export',
+      preview: 'https://github.com/sudongyuer/vite-plugin-hot-export',
+      techList: [badges.TypeScript,badges.NodeJS],
+      badges: [
+        'https://img.shields.io/github/stars/sudongyuer/vite-plugin-hot-export?style=flat-square'
+      ],
+    },
+    {
+      logo: '✨',
+      repo: 'auto-export',
+      desc: '一个cli可以自动导出同类型的文件',
+      github: 'https://github.com/sudongyuer/auto-export',
+      preview: 'https://github.com/sudongyuer/auto-export',
+      techList: [badges.TypeScript,badges.NodeJS],
+      badges: [
+        'https://img.shields.io/github/stars/sudongyuer/auto-export?style=flat-square'
+      ],
+    },
+    {
+      logo: '🌸',
+      repo: 'unxlsx',
+      desc: '可以自动从多个 Excel 文件自动生成导出文件的CLI',
+      github: 'https://github.com/sudongyuer/unxlsx',
+      preview: 'https://github.com/sudongyuer/unxlsx',
+      techList: [badges.TypeScript,badges.NodeJS],
+      badges: [
+        'https://img.shields.io/github/stars/sudongyuer/unxlsx?style=flat-square'
+      ],
+    },
+    {
       logo: '🦄',
       repo: 'mini-slack',
       desc: '模仿slack做的mini版(react、redux、ts、firebase、styled-components、vite、pnpm)',
