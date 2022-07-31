@@ -16,6 +16,7 @@ const badges = {
   Redux:'https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white',
   ESLint:'https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white',
   NextJs:'https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white',
+  Babel:'https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black'
 }
 
 module.exports = badges;
