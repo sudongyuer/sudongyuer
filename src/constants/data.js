@@ -46,7 +46,7 @@ const data = {
     {
       logo: '🐼',
       repo: 'easy-tinypng-cli',
-      desc: '从浏览器跳转到IDE源代码',
+      desc: '自动压缩图片的命令行工具',
       github: 'https://github.com/sudongyuer/easy-tinypng-cli',
       preview: 'https://github.com/sudongyuer/easy-tinypng-cli',
       techList: [badges.TypeScript,badges.NodeJS],

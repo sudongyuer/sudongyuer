@@ -82,6 +82,41 @@
   <tbody align="left">
     <tr>
       <th>
+        <a href="https://github.com/sudongyuer/easy-tinypng-cli" target="_blank">
+        easy-tinypng-cli</a>
+      </th>
+      <th>
+        <a href="https://github.com/sudongyuer/easy-tinypng-cli" target="_blank">Github</a>
+      </th>
+      <th>🐼 自动压缩图片的命令行工具</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/sudongyuer/easy-tinypng-cli?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        <a href="https://github.com/sudongyuer/vite-plugin-react-inspector" target="_blank">
+        vite-plugin-react-inspector</a>
+      </th>
+      <th>
+        <a href="https://github.com/sudongyuer/vite-plugin-react-inspector" target="_blank">Github</a>
+      </th>
+      <th>🦋 从浏览器跳转到IDE源代码</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&amp;logo=babel&amp;logoColor=black" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/sudongyuer/vite-plugin-react-inspector?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
         <a href="https://github.com/sudongyuer/vite-plugin-hot-export" target="_blank">
         vite-plugin-hot-export</a>
       </th>
