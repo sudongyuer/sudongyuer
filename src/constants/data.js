@@ -44,6 +44,28 @@ const data = {
   ],
   projects: [
     {
+      logo: '🐼',
+      repo: 'easy-tinypng-cli',
+      desc: '从浏览器跳转到IDE源代码',
+      github: 'https://github.com/sudongyuer/easy-tinypng-cli',
+      preview: 'https://github.com/sudongyuer/easy-tinypng-cli',
+      techList: [badges.TypeScript,badges.NodeJS],
+      badges: [
+        'https://img.shields.io/github/stars/sudongyuer/easy-tinypng-cli?style=flat-square'
+      ],
+    },
+    {
+      logo: '🦋',
+      repo: 'vite-plugin-react-inspector',
+      desc: '从浏览器跳转到IDE源代码',
+      github: 'https://github.com/sudongyuer/vite-plugin-react-inspector',
+      preview: 'https://github.com/sudongyuer/vite-plugin-react-inspector',
+      techList: [badges.TypeScript,badges.NodeJS,badges.Babel],
+      badges: [
+        'https://img.shields.io/github/stars/sudongyuer/vite-plugin-react-inspector?style=flat-square'
+      ],
+    },
+    {
       logo: '🐝',
       repo: 'vite-plugin-hot-export',
       desc: '可自动导出文件并且支持热更新',
