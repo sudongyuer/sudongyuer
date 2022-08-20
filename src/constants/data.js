@@ -101,7 +101,7 @@ const data = {
     {
       logo: '🦄',
       repo: 'mini-slack',
-      desc: '模仿slack做的mini版(react、redux、ts、firebase、styled-components、vite、pnpm)',
+      desc: 'slack的mini版(react、redux、ts、firebase、styled-components、vite、pnpm)',
       github: 'https://github.com/sudongyuer/mini-slack',
       preview: 'https://mini-slack.vercel.app/',
       techList: [badges.TypeScript, badges.React,badges.ReactRouter,badges.Redux],
