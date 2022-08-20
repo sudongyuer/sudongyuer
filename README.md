@@ -174,7 +174,7 @@
       <th>
         <a href="https://github.com/sudongyuer/mini-slack" target="_blank">Github</a>
       </th>
-      <th>🦄 模仿slack做的mini版(react、redux、ts、firebase、styled-components、vite、pnpm)</th>
+      <th>🦄 slack的mini版(react、redux、ts、firebase、styled-components、vite、pnpm)</th>
       <th>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="badge">
