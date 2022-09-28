@@ -1,17 +1,25 @@
 <h2>☀️ 你好 世界</h2>
 <img src="https://visitor-badge.glitch.me/badge?page_id=sudongyuer.sudongyuer" alt="visitor badge" />
-<p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是速冻鱼🐟，坐标成都。</p>
-<p>我热爱开源，仍然在学习中～</p>
-<h2>🙌 文章</h2>
-<table>
-  <tr>
-    <td>
-      <a href="https://juejin.cn/user/2867982785579102" target="_blank">
-        <img width="150" src="./src/images/icons/juejin.png" alt="掘金">
-      </a>
-    </td>
-  </tr>
-</table>
+<p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
+我是速冻鱼🐟，坐标成都。我热爱开源，业余长期给各种开源项目贡献代码:</p>
+<ul>
+  <li>
+  unocss(团队成员)</li>
+  <li>
+  naive-ui</li>
+  <li>
+  vue</li>
+  <li>
+  vite</li>
+  <li>
+  vitest</li>
+  <li>
+  unplugin-vue-components</li>
+  <li>
+  rsocket-js</li>
+  <li>
+  vuejs-translations</li>
+</ul>
 <h2>📚 小册子</h2>
 <p>每当学习到一些有用的知识，我就会将它系统的整理为小册，方便自己，也分享他人，还有一些散文在我的掘金，如果需要转载，请注明 --转载自速冻鱼（链接🔗）</p>
 <table>
@@ -43,18 +51,6 @@
     </tr>
     <tr>
       <th align="center">
-        <img width="80" src="./src/images/covers/React.jpg" alt="《React设计模式》">
-      </th>
-      <th>
-        <a href="https://github.com/sudongyuer/react-patterns" target="_blank">《React设计模式》</a>
-      </th>
-      <th>React相关der设计模式</th>
-      <th>
-        <img src="https://img.shields.io/github/stars/sudongyuer/react-patterns?style=flat-square" alt="badge">
-      </th>
-    </tr>
-    <tr>
-      <th align="center">
         <img width="80" src="./src/images/covers/Vim通关小册.jpg" alt="《Vim通关小册》">
       </th>
       <th>
@@ -66,6 +62,16 @@
       </th>
     </tr>
   </tbody>
+</table>
+<h2>🙌 文章</h2>
+<table>
+  <tr>
+    <td>
+      <a href="https://juejin.cn/user/2867982785579102" target="_blank">
+        <img width="150" src="./src/images/icons/juejin.png" alt="掘金">
+      </a>
+    </td>
+  </tr>
 </table>
 <h2>💼 repo</h2>
 <p>下面是我在学前端的路上写的一些个人项目，还有在公司写的一些开源项目，有的比较认真 🧐，有的只是为了好玩 🎮，有的比较沙雕 🤪。</p>
@@ -413,13 +419,3 @@
     </tr>
   </tbody>
 </table>
-<p>一些我参与贡献的项目:</p>
-<ul>
-  <li>naive-ui</li>
-  <li>vue-next</li>
-  <li>vite</li>
-  <li>vitest</li>
-  <li>unplugin-vue-components</li>
-  <li>rsocket-js</li>
-  <li>vuejs-translations</li>
-</ul>

@@ -26,14 +26,6 @@ const data = {
       ]
     },
     {
-      logo: '☄️',
-      name: '《React设计模式》',
-      desc: 'React相关der设计模式',
-      url: 'https://github.com/sudongyuer/react-patterns',
-      cover: `${imagePrefix}/covers/React.jpg`,
-      badges: ['https://img.shields.io/github/stars/sudongyuer/react-patterns?style=flat-square']
-    },
-    {
       logo: '🐇 ',
       name: '《Vim通关小册》',
       desc: '从0到1通关Vim',
