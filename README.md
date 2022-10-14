@@ -4,7 +4,7 @@
 我是速冻鱼🐟，坐标成都。我热爱开源，业余长期给各种开源项目贡献代码:</p>
 <ul>
   <li>
-  unocss(团队成员)</li>
+  unocss(team member)</li>
   <li>
   naive-ui</li>
   <li>
