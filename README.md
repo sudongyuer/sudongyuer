@@ -1,7 +1,7 @@
 <h2>☀️ 你好 世界</h2>
 <img src="https://visitor-badge.glitch.me/badge?page_id=sudongyuer.sudongyuer" alt="visitor badge" />
 <p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
-我是速冻鱼🐟，坐标成都。我热爱开源，业余长期给各种开源项目贡献代码:</p>
+我是速冻鱼儿🐟，坐标成都。我热爱开源，业余长期给各种开源项目贡献代码:</p>
 <ul>
   <li>
   unocss(team member)</li>
