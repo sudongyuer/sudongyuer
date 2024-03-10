@@ -6,6 +6,8 @@
   <li>
   unocss(team member)</li>
   <li>
+  naive-ui(team member)</li>
+  <li>
   naive-ui</li>
   <li>
   vue</li>
