@@ -6,7 +6,7 @@
   <li>
   unocss(team member)</li>
   <li>
-  naive-ui(team member)</li>
+  nextui(team member)</li>
   <li>
   naive-ui</li>
   <li>
